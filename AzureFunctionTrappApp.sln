@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AzureFunctionTrappApp", "AzureFunctionTrappApp\AzureFunctionTrappApp.csproj", "{0D01CEC2-4772-4414-9999-5D6C00AB387B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0D01CEC2-4772-4414-9999-5D6C00AB387B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D01CEC2-4772-4414-9999-5D6C00AB387B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D01CEC2-4772-4414-9999-5D6C00AB387B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D01CEC2-4772-4414-9999-5D6C00AB387B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {02128EA6-5F61-49BE-AFB3-E6093123A06F}
+	EndGlobalSection
+EndGlobal
